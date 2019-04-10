@@ -517,23 +517,42 @@ var Player = {
 
   duration: 0,
 
-
   tracks: [
     {
-      artist: "1Mayel",
-      song: "Midnight",
-		url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
+      artist: "Awolnation",
+      song: "Sail",
+      url: "https://uplusion23.github.io/cdn/music/awolnation/sail.mp3"
     },
     {
-      artist: "2Mayel",
-      song: "Midnight",
-		url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
+      artist: "Bastille",
+      song: "Pompeii",
+      url: "https://uplusion23.github.io/cdn/music/bastille/pompeii.mp3"
     },
-	 {
-      artist: "3Mayel",
-      song: "Midnight",
-		url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
+    {
+      artist: "Deadmau5",
+      song: "Ghosts n' Stuff",
+      url: "https://uplusion23.github.io/cdn/music/deadmau5/ghosts_n_stuff.mp3"
     },
+    {
+      artist: "Foster The People",
+      song: "Pumped Up Kicks",
+      url: "https://uplusion23.github.io/cdn/music/foster_the_people/pumped_up_kicks.mp3"
+    },
+    {
+      artist: "Ghost Town",
+      song: "You're So Creepy",
+      url: "https://uplusion23.github.io/cdn/music/ghost_town/youre_so_creepy.mp3"
+    },
+    {
+      artist: "Klaypex",
+      song: "Gamefire",
+      url: "https://uplusion23.github.io/cdn/music/klaypex/gamefire.mp3"
+    },
+    {
+      artist: "The Glitch Mob",
+      song: "Seven Nation Army",
+      url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
+    }
   ],
 
   init: function () {
