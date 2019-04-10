@@ -521,17 +521,17 @@ var Player = {
     {
       artist: "Mayel",
       song: "Midnight",
-		url: "https://github.com/Fobiya/Neurofunk/tree/master/treck/Mayel-Midnight.mp3"
+		url: "https://fobiya.github.io/Neurofunk/treck/Mayel-Midnight.mp3"
     },
     {
       artist: "Mayel",
       song: "Midnight",
-		url: "https://github.com/Fobiya/Neurofunk/tree/master/treck/Mayel-Midnight.mp3"
+		url: "https://fobiya.github.io/Neurofunk/treck/Mayel-Midnight.mp3"
     },
 	 {
       artist: "Mayel",
       song: "Midnight",
-		url: "https://github.com/Fobiya/Neurofunk/tree/master/treck/Mayel-Midnight.mp3"
+		url: "https://fobiya.github.io/Neurofunk/treck/Mayel-Midnight.mp3"
     },
   ],
 
