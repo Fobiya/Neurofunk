@@ -517,21 +517,22 @@ var Player = {
 
   duration: 0,
 
+
   tracks: [
     {
-      artist: "Mayel",
+      artist: "1Mayel",
       song: "Midnight",
-		url: "https://fobiya.github.io/Neurofunk/treck/Mayel-Midnight.mp3"
+		url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
     },
     {
-      artist: "Mayel",
+      artist: "2Mayel",
       song: "Midnight",
-		url: "https://fobiya.github.io/Neurofunk/treck/Mayel-Midnight.mp3"
+		url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
     },
 	 {
-      artist: "Mayel",
+      artist: "3Mayel",
       song: "Midnight",
-		url: "https://fobiya.github.io/Neurofunk/treck/Mayel-Midnight.mp3"
+		url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
     },
   ],
 
