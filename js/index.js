@@ -519,39 +519,19 @@ var Player = {
 
   tracks: [
     {
-      artist: "Awolnation",
+      artist: "start",
       song: "Sail",
-      url: "https://uplusion23.github.io/cdn/music/awolnation/sail.mp3"
+      url: "https://Fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
     },
     {
-      artist: "Bastille",
-      song: "Pompeii",
-      url: "https://uplusion23.github.io/cdn/music/bastille/pompeii.mp3"
+      artist: "Jordan Burns",
+      song: "Weekend",
+      url: "https://Fobiya.github.io/Jordan_Burns_–_Weekend.mp3"
     },
     {
-      artist: "Deadmau5",
-      song: "Ghosts n' Stuff",
-      url: "https://uplusion23.github.io/cdn/music/deadmau5/ghosts_n_stuff.mp3"
-    },
-    {
-      artist: "Foster The People",
-      song: "Pumped Up Kicks",
-      url: "https://uplusion23.github.io/cdn/music/foster_the_people/pumped_up_kicks.mp3"
-    },
-    {
-      artist: "Ghost Town",
-      song: "You're So Creepy",
-      url: "https://uplusion23.github.io/cdn/music/ghost_town/youre_so_creepy.mp3"
-    },
-    {
-      artist: "Klaypex",
-      song: "Gamefire",
-      url: "https://uplusion23.github.io/cdn/music/klaypex/gamefire.mp3"
-    },
-    {
-      artist: "The Glitch Mob",
-      song: "Seven Nation Army",
-      url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
+      artist: "Jordan Burns",
+      song: "Head In The Clouds",
+      url: "https://Fobiya.github.io/deadmau5/Jordan_Burns_–_Head_In_The_Clouds.mp3"
     }
   ],
 
