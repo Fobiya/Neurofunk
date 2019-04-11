@@ -522,6 +522,11 @@ var Player = {
       artist: "Submotion_Orchestra_Secrets_Marina_Faib_Remix",
       song: "Sail",
       url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    },
+	{
+      artist: "1Submotion_Orchestra_Secrets_Marina_Faib_Remix",
+      song: "Sail",
+      url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
     }
   ],
 
@@ -576,7 +581,7 @@ var Player = {
   nextTrack: function () {
     ++this.currentSongIndex;
     if (this.currentSongIndex == this.tracks.length) {
-      this.currentSongIndex = 1;
+      this.currentSongIndex = 0;
     }
     
     
