@@ -519,19 +519,9 @@ var Player = {
 
   tracks: [
     {
-      artist: "start",
+      artist: "Submotion_Orchestra_Secrets_Marina_Faib_Remix",
       song: "Sail",
-      url: "https://Fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
-    },
-    {
-      artist: "Jordan Burns",
-      song: "Weekend",
-      url: "https://Fobiya.github.io/Jordan_Burns_–_Weekend.mp3"
-    },
-    {
-      artist: "Jordan Burns",
-      song: "Head In The Clouds",
-      url: "https://Fobiya.github.io/deadmau5/Jordan_Burns_–_Head_In_The_Clouds.mp3"
+      url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
     }
   ],
 
