@@ -576,7 +576,7 @@ var Player = {
   nextTrack: function () {
     ++this.currentSongIndex;
     if (this.currentSongIndex == this.tracks.length) {
-      this.currentSongIndex = 0;
+      this.currentSongIndex = 1;
     }
     
     
