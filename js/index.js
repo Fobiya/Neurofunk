@@ -519,14 +519,39 @@ var Player = {
 
   tracks: [
     {
-      artist: "Submotion_Orchestra_Secrets_Marina_Faib_Remix",
+      artist: "1",
       song: "Sail",
       url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
     },
-	{
-      artist: "1Submotion_Orchestra_Secrets_Marina_Faib_Remix",
-      song: "Sail",
-      url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    {
+      artist: "2",
+      song: "Pompeii",
+  url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    },
+    {
+      artist: "3",
+      song: "Ghosts n' Stuff",
+  url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    },
+    {
+      artist: "4",
+      song: "Pumped Up Kicks",
+  url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    },
+    {
+      artist: "Ghost Town",
+      song: "5",
+  url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    },
+    {
+      artist: "6",
+      song: "Gamefire",
+  url: "https://fobiya.github.io/Submotion_Orchestra_Secrets_Marina_Faib_Remix.mp3"
+    },
+    {
+      artist: "7",
+      song: "Seven Nation Army",
+      url: "https://uplusion23.github.io/cdn/music/the_glitch_mob/seven_nation_army.mp3"
     }
   ],
 
