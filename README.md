@@ -2,11 +2,11 @@
 
 ### Next information 
 
-[Treck list:](link https://github.com/Fobiya/neurofunk/tree/gh-pages/treck)
+[Treck list](https://github.com/Fobiya/neurofunk/tree/gh-pages/treck)
 
 [edit url](https://fobiya.github.io/neurofunk/treck/)  
 
-[Download ZIP:](https://github.com/Fobiya/neurofunk/archive/gh-pages.zip)
+[Download ZIP](https://github.com/Fobiya/neurofunk/archive/gh-pages.zip)
 
 
 /----------------------------------------------------------------------------------------
